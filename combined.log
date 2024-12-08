@@ -1,0 +1,126 @@
+2024-09-27T12:40:52.331Z info: Server running on port 5000
+2024-09-27T12:41:22.337Z error: MongoDB connection failed connect ECONNREFUSED ::1:27017
+2024-09-27T12:41:53.673Z info: Server running on port 5000
+2024-09-27T12:42:23.666Z error: MongoDB connection failed connect ECONNREFUSED ::1:27017
+2024-09-28T06:34:03.058Z info: Server running on port 5000
+2024-09-28T06:34:10.934Z info: Server running on port 5000
+2024-09-28T06:34:52.077Z info: Server running on port 5000
+2024-09-28T06:35:21.885Z info: Server running on port 5000
+2024-09-28T06:35:51.744Z info: Server running on port 5000
+2024-09-28T06:36:07.150Z info: Server running on port 5000
+2024-09-28T06:36:22.895Z info: Server running on port 5000
+2024-09-28T06:36:51.235Z info: Server running on port 5000
+2024-09-28T06:36:56.296Z info: Server running on port 5000
+2024-09-28T06:37:26.287Z error: MongoDB connection failed connect ECONNREFUSED ::1:27017
+2024-09-28T06:37:29.874Z info: Server running on port 5000
+2024-09-28T06:37:59.886Z error: MongoDB connection failed connect ECONNREFUSED ::1:27017
+2024-09-28T06:45:41.800Z info: Server running on port 5000
+2024-09-28T06:45:44.035Z info: Server running on port 5000
+2024-09-28T06:46:14.038Z error: MongoDB connection failed connect ECONNREFUSED ::1:27017
+2024-09-28T06:48:13.609Z info: Server running on port 5000
+2024-09-28T06:48:13.635Z info: MongoDB connected successfully
+2024-09-28T07:05:27.827Z info: Server running on port 5000
+2024-09-28T07:05:27.853Z info: MongoDB connected successfully
+2024-09-28T07:06:43.917Z info: Server running on port 5000
+2024-09-28T07:06:43.964Z info: MongoDB connected successfully
+2024-09-28T07:07:29.513Z info: Server running on port 5000
+2024-09-28T07:07:29.545Z info: MongoDB connected successfully
+2024-09-28T07:07:39.468Z info: Server running on port 5000
+2024-09-28T07:07:39.511Z info: MongoDB connected successfully
+2024-09-28T07:08:04.806Z info: Server running on port 5000
+2024-09-28T07:08:04.838Z info: MongoDB connected successfully
+2024-09-28T07:08:23.213Z info: Server running on port 5000
+2024-09-28T07:08:23.251Z info: MongoDB connected successfully
+2024-09-28T07:10:23.530Z info: Server running on port 5000
+2024-09-28T07:10:23.551Z info: MongoDB connected successfully2024-09-28T09:03:47.406Z info: Server running on port 5000
+2024-09-28T09:03:47.686Z info: MongoDB connected successfully
+2024-09-28T15:57:41.386Z info: Server running on port 5000
+2024-09-28T15:57:41.426Z info: MongoDB connected successfully
+2024-09-28T07:10:23.551Z info: MongoDB connected successfully2024-09-28T08:17:56.692Z info: Server running on port 5000
+2024-09-28T08:17:56.708Z info: MongoDB connected successfully
+2024-09-28T08:35:52.462Z info: Server running on port 5000
+2024-09-28T08:35:52.521Z info: MongoDB connected successfully
+2024-09-28T09:19:57.791Z info: Server running on port 5000
+2024-09-28T09:19:57.818Z info: MongoDB connected successfully
+2024-09-28T10:59:23.534Z info: Server running on port 5000
+2024-09-28T10:59:23.566Z info: MongoDB connected successfully
+2024-09-28T11:15:28.634Z info: Server running on port 5000
+2024-09-28T11:15:28.680Z info: MongoDB connected successfully
+2024-09-28T11:29:35.000Z info: Server running on port 5000
+2024-09-28T11:29:35.045Z info: MongoDB connected successfully
+2024-09-28T15:41:46.901Z info: Server running on port 5000
+2024-09-28T15:41:46.945Z info: MongoDB connected successfully
+2024-09-28T16:07:30.603Z info: Server running on port 5000
+2024-09-28T16:07:30.727Z info: MongoDB connected successfully
+2024-09-28T16:23:43.081Z info: Server running on port 5000
+2024-09-28T16:55:58.867Z info: Server running on port 5000
+2024-09-28T16:56:37.393Z info: Server running on port 5000
+2024-09-28T16:57:56.468Z info: Server running on port 5000
+2024-09-28T16:58:06.452Z info: Server running on port 5000
+2024-09-28T16:59:23.163Z info: Server running on port 5000
+2024-09-28T16:59:42.587Z info: Server running on port 5000
+2024-09-28T16:59:56.392Z info: Server running on port 5000
+2024-09-28T17:00:17.224Z info: Server running on port 5000
+2024-09-28T17:00:49.528Z info: Server running on port 5000
+2024-09-28T17:01:02.099Z info: Server running on port 5000
+2024-09-28T17:01:11.531Z info: Server running on port 5000
+2024-09-28T17:04:55.899Z info: Server running on port 5000
+2024-09-28T17:10:31.081Z info: Server running on port 5000
+2024-09-28T17:10:44.568Z info: Server running on port 5000
+2024-09-28T17:11:35.725Z info: Server running on port 5000
+2024-09-28T17:11:54.601Z info: Server running on port 5000
+2024-09-28T17:12:19.081Z info: Server running on port 5000
+2024-09-28T17:12:30.315Z info: Server running on port 5000
+2024-09-28T17:15:07.081Z info: Server running on port 5000
+2024-09-28T17:15:13.950Z info: Server running on port 5000
+2024-09-28T17:16:01.074Z info: Server running on port 5000
+2024-09-28T17:16:19.187Z info: Server running on port 5000
+2024-09-28T17:17:06.344Z info: Server running on port 5000
+2024-09-28T17:20:58.308Z info: Server running on port 5000
+2024-09-28T17:23:25.010Z info: Server running on port 5000
+2024-09-28T17:23:49.288Z info: Server running on port 5000
+2024-09-28T17:23:56.952Z info: Server running on port 5000
+2024-09-28T17:26:33.505Z info: Server running on port 5000
+2024-09-28T17:31:05.442Z info: Server running on port 5000
+2024-09-28T17:31:25.337Z info: Server running on port 5000
+2024-09-28T17:33:20.200Z info: Server running on port 5000
+2024-09-28T17:38:05.782Z info: Server running on port 5000
+2024-09-28T17:55:03.684Z info: Server running on port 5000
+2024-09-28T18:03:25.566Z info: Server running on port 5000
+2024-09-28T18:04:58.916Z info: Server running on port 5000
+2024-09-28T18:05:58.006Z info: Server running on port 5000
+2024-09-28T18:08:42.335Z info: Server running on port 5000
+2024-09-28T18:11:09.581Z info: Server running on port 5000
+2024-09-28T18:13:00.831Z info: Server running on port 5000
+2024-09-28T18:15:16.175Z info: Server running on port 5000
+2024-09-28T18:16:05.271Z info: Server running on port 5000
+2024-09-28T18:16:19.849Z info: Server running on port 5000
+2024-09-28T18:20:54.926Z info: Server running on port 5000
+2024-09-28T18:23:43.581Z info: Server running on port 5000
+2024-09-28T18:27:58.725Z info: Server running on port 5000
+2024-09-29T16:08:11.969Z info: Server running on port 5000
+2024-09-29T16:09:27.080Z info: Server running on port 5000
+2024-09-29T17:12:13.054Z info: Server running on port 5000
+2024-09-29T17:28:52.114Z info: Server running on port 5000
+2024-09-29T17:29:17.523Z info: Server running on port 5000
+2024-09-29T17:30:05.577Z info: Server running on port 5000
+2024-09-29T17:31:16.596Z info: Server running on port 5000
+2024-09-29T17:32:12.569Z info: Server running on port 5000
+2024-09-29T17:33:01.407Z info: Server running on port 5000
+2024-09-29T17:49:04.331Z info: Server running on port 5000
+2024-09-29T17:49:36.215Z info: Server running on port 5000
+2024-09-29T17:49:49.133Z info: Server running on port 5000
+2024-09-29T17:59:08.870Z info: Server running on port 5000
+2024-09-29T17:59:22.687Z info: Server running on port 5000
+2024-10-30T08:02:40.120Z info: Server running on port 5000
+2024-10-30T08:04:25.196Z info: Server running on port 5000
+2024-10-30T17:41:22.692Z info: Server running on port 5000
+2024-10-30T18:29:05.393Z info: Server running on port 5000
+2024-10-30T18:29:15.947Z info: Server running on port 5000
+2024-10-30T18:30:58.311Z info: Server running on port 5000
+2024-10-30T18:50:26.490Z info: Server running on port 5000
+2024-11-15T19:45:35.459Z info: Server running on port 5000
+2024-11-15T19:45:50.731Z error: Error sending email: Missing credentials for "PLAIN"
+2024-11-15T19:46:19.153Z info: Server running on port 5000
+2024-11-15T19:46:25.191Z info: Server running on port 5000
+2024-11-15T19:46:31.950Z info: Email sent: 250 2.0.0 OK  1731699991 d2e1a72fcca58-724771c0baesm1746009b3a.92 - gsmtp
