@@ -12,6 +12,7 @@ const errorHandler = require('./middlewares/errorHandler');
 const logger = require('./utils/logger');
 const uploadFiles = require('./utils/File');
 const emailRoutes = require('./routes/emailRoutes');
+const taskRoutes = require('./routes/taskRoutes');
 const scheduleDailyReminders = require('./job/dailyReminderJob');
 
 
@@ -31,7 +32,7 @@ app.use('/api/payment', paymentRoute);
 app.use('/api/messages', messageRoutes);
 app.use('/api/access', accessRoutes); 
 app.use('/api/email', emailRoutes);
-
+app.use('/api/tasks',taskRoutes);
 
 scheduleDailyReminders(); // will run in backend 
 
