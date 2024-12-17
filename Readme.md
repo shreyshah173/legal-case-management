@@ -92,3 +92,23 @@ Method: POST
 # 7 an endpoint for general purpose
 ![alt text](image-23.png)
 ![alt text](<WhatsApp Image 2024-11-16 at 01.17.35_40b4ce71.jpg>)
+
+
+
+
+# New endpoints
+# Tasks 
+1. create a new task 
+![alt text](image-24.png)
+
+2. get all details 
+![alt text](image-26.png) 
+
+3. fetch by anything 
+![alt text](image-25.png)
+
+4. put method 
+![alt text](image-27.png)
+
+5. delete method
+![alt text](image-28.png)

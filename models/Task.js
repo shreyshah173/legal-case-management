@@ -1,3 +1,5 @@
+const mongoose = require('mongoose');
+
 const TaskSchema = new mongoose.Schema({
     title: { type: String, required: true },
     description: { type: String },
@@ -8,4 +10,5 @@ const TaskSchema = new mongoose.Schema({
     priority: { type: String, enum: ['Low', 'Medium', 'High'] },
     stage: { type: String }
 });
-const Task = mongoose.model('Task', TaskSchema);
+
+module.exports = mongoose.model('Task', TaskSchema);

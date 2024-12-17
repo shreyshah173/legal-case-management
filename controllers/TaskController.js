@@ -27,7 +27,7 @@ exports.getTasks = async (req, res) => {
 exports.createTask = async (req, res) => {
     try {
         const { title, description, assignees, reporter, team, date, priority, stage } = req.body;
-
+        
         const newTask = new Task({
             title,
             description,
